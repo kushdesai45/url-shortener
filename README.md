@@ -1,3 +1,14 @@
+#Create Url Shortener:
+App takes url as web link and it will create one short url for that url and on click of this short url you will be redirected to that particular page. Also it will give you analytics of number of clicks of the particular short url.
+
+Porject had two folders frontend and backend:
+1. frontend project includes react app, which has frontend of the url shortener.
+2. backend project includes node and express app, which has backend of url shortener.
+3. mongodb database is used as database.
+
+Flow chart of the given app:
+![url-shortener-1](https://github.com/user-attachments/assets/dc41f6a1-3d7e-497a-8757-051bbca14c38)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
