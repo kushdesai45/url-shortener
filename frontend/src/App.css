@@ -1,0 +1,45 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: 700;
+  color: #343a40;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.card {
+  border-radius: 15px;
+  border: none;
+  background-color: #ffffff;
+}
+
+.table {
+  margin-top: 20px;
+  word-wrap: break-word;
+}
+
+.table td,
+.table th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f1f3f5;
+}
+
+.input-group .form-control {
+  border-radius: 0.5rem 0 0 0.5rem;
+  box-shadow: none;
+}
+
+.input-group .btn {
+  border-radius: 0 0.5rem 0.5rem 0;
+}
